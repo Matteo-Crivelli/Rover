@@ -21,7 +21,8 @@ Design choices
 
 CAD
 
-/cad — Shapr3D, STEP, and STL (3D preview).
+/cad — differential drive. Modeled in Shapr3D (free tier — STL export only, low-res mesh)
+
 Status
 
     Rover v0.1: completed
