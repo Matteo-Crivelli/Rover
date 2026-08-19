@@ -1,20 +1,29 @@
-# Rover
+Rover
 
-Mobile rover base. Didactic project (ENFAPI).
+Mobile rover base + assembled robotic arm. (ENFAPI).
+Scope
 
-## Scope
-Two-year project.
-- **Year 1 (this repo):** mobile base — chassis, drive, electronics.
-- **Year 2:** robotic arm on top, by a different class.
+Two-year student project.
 
-## Design choices
-- Differential drive
-- Steel plate chassis
-- Dual Arduino architecture
-- Motor drivers: BTS7960 / Cytron (TBD)
+    Year 1: mobile base — chassis, drive, electronics, base code.
 
-## CAD
-[`/cad`](cad) — Fusion source, STEP, and STL ([3D preview](cad/rv1.stl)).
+    Year 2: upper robotic arm (Under construction)....
 
-## Status
-Work in progress — base modeling not complete.
+Design choices
+
+    Differential drive
+
+    Steel plate chassis
+
+    Dual Arduino architecture
+
+    Motor drivers: (TBD)...
+
+CAD
+
+/cad — Shapr3D, STEP, and STL (3D preview).
+Status
+
+    Rover v0.1: completed
+
+    Robo Arm: to be started
