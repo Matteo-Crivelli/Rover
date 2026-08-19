@@ -5,25 +5,25 @@ Scope
 
 Two-year student project.
 
-Year 1: mobile base — chassis, drive, electronics, base code.
+    Year 1: mobile base — chassis, drive, electronics, base code.
 
-Year 2: upper robotic arm (Under construction)....
+    Year 2: upper robotic arm (Under construction)....
 
 Design choices
 
-Differential drive
+    Differential drive
 
-Steel plate chassis
+    Steel plate chassis
 
-Dual Arduino architecture
+    Dual Arduino architecture
 
-Motor drivers: (TBD)...
+    Motor drivers: (TBD)...
 
 CAD
 
 /cad — Shapr3D, STEP, and STL (3D preview).
 Status
 
-Rover v0.1: completed
+    Rover v0.1: completed
 
-Robo Arm: to be started
+    Robo Arm: to be started
